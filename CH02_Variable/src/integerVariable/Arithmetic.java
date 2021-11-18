@@ -6,11 +6,11 @@ public class Arithmetic {
 		// TODO Auto-generated method stub
 		System.out.println(7 + 3);
 		System.out.println(9 / 3);
-		System.out.println(10 / 3); // Á¤¼ö/Á¤¼ö = Á¤¼ö 
+		System.out.println(10 / 3); // ì •ìˆ˜/ì •ìˆ˜ = ì •ìˆ˜ 
 		System.out.println(10.0 / 3.0);
-		System.out.println(9 / 4.0); // Á¤¼ö(int4¹ÙÀÌÆ®)/½Ç¼ö(double8¹ÙÀÌÆ®) ÀÌ¶§ Å« °ªÅ¸ÀÔÀ¸·Î(½Ç¼ö·Î ³ª¿À°Ô µÊ)
+		System.out.println(9 / 4.0); // ì •ìˆ˜(int4ë°”ì´íŠ¸)/ì‹¤ìˆ˜(double8ë°”ì´íŠ¸) ì´ë•Œ í° ê°’íƒ€ì…ìœ¼ë¡œ(ì‹¤ìˆ˜ë¡œ ë‚˜ì˜¤ê²Œ ë¨)
 		System.out.println(3 * 4);
-		System.out.println(3 * 4.0); // Á¤¼ö(int4¹ÙÀÌÆ®)/½Ç¼ö(double8¹ÙÀÌÆ®) ÀÌ¶§ Å« °ªÅ¸ÀÔÀ¸·Î(½Ç¼ö·Î ³ª¿À°Ô µÊ) 
+		System.out.println(3 * 4.0); // ì •ìˆ˜(int4ë°”ì´íŠ¸)/ì‹¤ìˆ˜(double8ë°”ì´íŠ¸) ì´ë•Œ í° ê°’íƒ€ì…ìœ¼ë¡œ(ì‹¤ìˆ˜ë¡œ ë‚˜ì˜¤ê²Œ ë¨) 
 		System.out.println(3 - 4);
 	}
 
